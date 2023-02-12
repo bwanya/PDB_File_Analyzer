@@ -11,8 +11,5 @@ The Script directory has the program file that can be run on Python v 3.5 and ab
 Once a valid PDB file is loaded into the program, the user can proceed to explore the different menu options. For example, if a user wants to see the secondary structure of a protein, they would choose option 4 which would print the protein's secondary structure.
 The export function currently only prints the results of the Information option to a txt file in the Results folder. 
 
-## Credits
-This Project was designed by [Gustavo Salazar]()
-
 
 
